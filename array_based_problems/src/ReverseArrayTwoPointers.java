@@ -1,3 +1,4 @@
+//Program to reverse an array using two pointers approach
 import java.util.*;
 public class ReverseArrayTwoPointers {
     public static void main(String[] args) {
