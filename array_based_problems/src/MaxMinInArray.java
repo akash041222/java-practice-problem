@@ -1,3 +1,4 @@
+//Write a program to initialize an integer array and find the maximum and minimum value of the array.
 import java.util.*;
 public class MaxMinInArray{
     public static void main(String[] args) {
